@@ -3,8 +3,13 @@
 This project demonstrates a systematic approach to cleaning foood deliveries records data. It includes:
 
 ## Key Features
-- **Duplicate removal** using pandas
-- **Missing value imputation** with median values
+-  **Check null available** using pandas
+- **Group column want to keep** using pandas
+- **Drop unnecessary column** using pandas
+- **Renaming column header** using pandas
+- **Dropping duplicates** using pandas
+- **Dropping NaN values** using pandas
+- **Count how many month from 'Age' column** with 'Age' * 12 values
 - **Data standardization** for department names
 - **Validation** of numeric fields
 
